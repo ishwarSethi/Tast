@@ -1,0 +1,18 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "learnbot",
+  "main": "src/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ishwar",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "eslint-config-tesseract": "^0.0.2"
+  },
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
